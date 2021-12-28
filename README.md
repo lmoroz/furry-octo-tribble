@@ -1,4 +1,4 @@
-# gela.ru
+# vue.js
 
 ## Project setup
 ```
